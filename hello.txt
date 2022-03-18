@@ -8,4 +8,4 @@ hello xiaohudie!hello git!
 hello xiaohudie!hello git!
 hello xiaohudie!hello git!
 hello xiaohudie!hello git!
-hello xiaohudie!hello git!
+hello xiaohudie!hello git! hot-fix test
